@@ -26,11 +26,11 @@ curl -x "http://localhost:8080" "http://giphy.com" --verbose
 The following dependencies need to be installed using the following links.
 
 * java jdk - https://java.com/en/download/help/download_options.html
-* sdk - https://sdkman.io
+* sdk - https://sdkman.io (to install gradle)
 * gradle -  https://docs.gradle.org/current/userguide/installation.html
 
 
-Supported Versions
+Known Supported Versions
 * Gradle: 		7.0
 * Kotlin:       1.4.31
 * Groovy:       3.0.7
