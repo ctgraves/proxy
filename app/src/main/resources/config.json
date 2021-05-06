@@ -1,0 +1,4 @@
+{
+	portNumber: 8080,
+	validUrls: ["giphy.com", "google.com"]
+}
